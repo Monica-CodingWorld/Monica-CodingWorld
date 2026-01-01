@@ -7,7 +7,7 @@
   🏷️ Status: Merged
 
 - ✅ **FINERACT-2423**: Fix invalid Liquibase changelog filename with space   
-  🔗 PR: https://github.com/apache/fineract/pull/5248  
+  🔗 PR: https://github.com/apache/fineract/pull/5264  
   📄 Type: bug fix  
   🏷️ Status: opened
 
