@@ -11,3 +11,7 @@
   📄 Type: bug fix  
   🏷️ Status: opened
 
+- ✅ **FINERACT-2206**: Correct typo 'allowPartialPeriodInterestCalcualtion' in code and REST API   
+  🔗 PR: https://github.com/apache/fineract/pull/5279
+  📄 Type: typo fix 
+  🏷️ Status: opened
