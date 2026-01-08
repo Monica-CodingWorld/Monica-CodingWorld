@@ -15,3 +15,8 @@
   🔗 PR: https://github.com/apache/fineract/pull/5264  
   📄 Type: bug fix  
   🏷️ Status: opened
+  
+- ✅ **FINERACT-2429**: Fix typo getCreditAcount to getCreditAccount in Tax Component   
+  🔗 PR: https://github.com/apache/fineract/pull/5297  
+  📄 Type: typo fix  
+  🏷️ Status: opened
