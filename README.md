@@ -3,7 +3,7 @@
 ### Apache Fineract
 - ✅ **FINERACT-792**: Improved developer environment setup documentation  
   🔗 PR: https://github.com/apache/fineract/pull/5248  
-  📄 Type: Documentation Enhancement  
+  📄 Type: Documentation Enhancement(Technical)  
   🏷️ Status: Merged
 
 - ✅ **FINERACT-2206**: Correct typo 'allowPartialPeriodInterestCalcualtion' in code and REST API  
