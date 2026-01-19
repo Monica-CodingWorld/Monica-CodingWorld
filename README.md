@@ -20,4 +20,9 @@
   🔗 PR: https://github.com/apache/fineract/pull/5264  
   📄 Type: bug fix  
   🏷️ Status: Merged
+
+- ✅ **FINERACT-2428**: Fix 'acount' typo to 'account' in legacy docs  
+  🔗 PR: https://github.com/apache/fineract/pull/5341  
+  📄 Type: typo fix  
+  🏷️ Status: Merged
   
