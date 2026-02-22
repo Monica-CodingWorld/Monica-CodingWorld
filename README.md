@@ -26,13 +26,14 @@
   📄 Type: typo fix  
   🏷️ Status: Merged
 
+- ✅ **FINERACT-2048**: Make amount/recurrence fields optional for DUES standing instruction type
+  🔗 PR: https://github.com/apache/fineract/pull/5362  
+  📄 Type: major Bug fix  
+  🏷️ Status: Open
+
 - ✅ **FINERACT-263**: "Add Notes" for Centers permission is missing
   🔗 PR: https://github.com/apache/fineract/pull/5346 
   📄 Type: Bug fix  
   🏷️ Status: Open
 
-- ✅ **FINERACT-2048**: Make amount/recurrence fields optional for DUES standing instruction type
-- 🔗 PR: https://github.com/apache/fineract/pull/5362  
-  📄 Type: major Bug fix  
-  🏷️ Status: Open
   
