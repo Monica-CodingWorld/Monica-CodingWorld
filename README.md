@@ -34,5 +34,5 @@
 - ✅ **FINERACT-2048**: Make amount/recurrence fields optional for DUES standing instruction type 
   🔗 PR: https://github.com/apache/fineract/pull/5362  
   📄 Type: major Bug fix  
-  🏷️ Status: Open
+  🏷️ Status: Merged
   
